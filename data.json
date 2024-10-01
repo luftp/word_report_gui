@@ -1,0 +1,25 @@
+{
+    "dict_estilo": {
+        "1": "EPC_Titulo1",
+        "2": "EPC_Titulo2",
+        "3": "EPC_Titulo3",
+        "4": "EPC_Titulo4",
+        "5": "EPC_Titulo5",
+        "6": "EPC_Titulo6"
+    },
+    "template": "C:\\Users\\lftavares\\OneDrive - DF+ ENGENHARIA\\Documents\\PYTHON\\ENGENHARIA\\MEMORIA_CALCULO\\calculation_report\\teste\\template.docx",
+    "path_saida": "C:\\Users\\lftavares\\OneDrive - DF+ ENGENHARIA\\Documents\\PYTHON\\ENGENHARIA\\MEMORIA_CALCULO\\docteste.docx",
+    "path_figuras": "C:\\Users\\lftavares\\OneDrive - DF+ ENGENHARIA\\Documents\\PYTHON\\ENGENHARIA\\MEMORIA_CALCULO\\calculation_report\\nicegui\\figuras\\Capturar.PNG",
+    "dict_itens": [
+        [
+            "titulo",
+            "EPC_Titulo1",
+            "APRESENTA\u00c7\u00c3O"
+        ],
+        [
+            "paragrafo",
+            "",
+            "CAVA - Infraestrutura Ltda. apresenta o Projeto Executivo de Engenharia para a Constru\u00e7\u00e3o da Extens\u00e3o da Ponte sobre o rio Tarauac\u00e1, Trecho: Divisa RO/AC - entre AC-090 (Fronteira Brasil/Peru) (Boqueir\u00e3o da Esperan\u00e7a), subtrecho: Entr BR-409/AC-170 (Feij\u00f3) - Entr AC-321 (Tarauac\u00e1), km 535,5 - km 535,8, numa extens\u00e3o total de 0,3 km. #fig.figura1.Est\u00e1 \u00e9 uma legenda de figura#\n\nA Figura #ref.figura1# \u00e9 uma refer\u00eancia de figura"
+        ]
+    ]
+}
