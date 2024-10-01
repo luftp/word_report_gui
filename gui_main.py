@@ -1,11 +1,11 @@
 from gui_classes import GUI_relatorio
 
 
-template_path = r"C:\Users\lftavares\OneDrive - DF+ ENGENHARIA\Documents\PYTHON\ENGENHARIA\MEMORIA_CALCULO\calculation_report\teste\template.docx"
+template_path = r"template.docx"
 
-path_saida = r'C:\Users\lftavares\OneDrive - DF+ ENGENHARIA\Documents\PYTHON\ENGENHARIA\MEMORIA_CALCULO\docteste.docx'
+path_saida = r'docteste.docx'
 
-path_figuras = r"C:\Users\lftavares\OneDrive - DF+ ENGENHARIA\Documents\PYTHON\ENGENHARIA\MEMORIA_CALCULO\calculation_report\nicegui\figuras\Capturar.PNG"
+path_figuras = r"figuras\Capturar.PNG"
 
 dict_estilos = {1: 'EPC_Titulo1',
                 2: 'EPC_Titulo2',
