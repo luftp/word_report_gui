@@ -7,9 +7,9 @@
         "5": "EPC_Titulo5",
         "6": "EPC_Titulo6"
     },
-    "template": "C:\\Users\\lftavares\\OneDrive - DF+ ENGENHARIA\\Documents\\PYTHON\\ENGENHARIA\\MEMORIA_CALCULO\\calculation_report\\teste\\template.docx",
-    "path_saida": "C:\\Users\\lftavares\\OneDrive - DF+ ENGENHARIA\\Documents\\PYTHON\\ENGENHARIA\\MEMORIA_CALCULO\\docteste.docx",
-    "path_figuras": "C:\\Users\\lftavares\\OneDrive - DF+ ENGENHARIA\\Documents\\PYTHON\\ENGENHARIA\\MEMORIA_CALCULO\\calculation_report\\nicegui\\figuras\\Capturar.PNG",
+    "template": "template.docx",
+    "path_saida": "docteste.docx",
+    "path_figuras": "figuras\\Capturar.PNG",
     "dict_itens": [
         [
             "titulo",

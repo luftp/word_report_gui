@@ -68,7 +68,7 @@ def compilar_relatorio(lista_itens, template, dict_estilos, path_saida_relatorio
 
                         if comando[0] == 'fig':
 
-                            mc.add_figura(r"C:\Users\lftavares\OneDrive - DF+ ENGENHARIA\Documents\PYTHON\ENGENHARIA\MEMORIA_CALCULO\calculation_report\nicegui\figuras\Capturar.PNG", comando[2], bookmark=comando[1])
+                            mc.add_figura(r"figuras\Capturar.PNG", comando[2], bookmark=comando[1])
 
                         if comando[0] == 'ref':
 
